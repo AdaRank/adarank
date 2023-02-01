@@ -27,3 +27,5 @@ After running the simulation process you get two types of files for each paramet
 
 If you need help regarding the input file format please have a look at the help page once you started the GUI.
 
+### Datasets
+The folder `datasets` contains everty dataset used for experiments in the paper. These datasets are already preprocessed. As an example *Amazon Beauty* is already split into training and test set. Note, that each split is performed randomly, hence, your experimental results may differ.
