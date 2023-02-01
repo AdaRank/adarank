@@ -21,8 +21,9 @@ Each simulation gets put together based on the configurations made on the page:
 8. If not, the successive-item-recommendation is performed. In this case, the prefix length of the sequence has to be chosen as a recommendation basis.
 
 After running the simulation process you get two types of files for each parameter configuration:
-1. A CSV-file which contains the results in the form of precision and diversity values and the corresponding parameters for this experiment.
-2. A textfile containing the simulated sequences.
+1. Make sure that you created the folder `results` which contains the four folders `metadata`, `sequences`, `rules` and `qualities`.
+2. A CSV-file which contains the results in the form of precision and diversity values and the corresponding parameters for this experiment.
+3. A textfile containing the simulated sequences.
 
 If you need help regarding the input file format please have a look at the help page once you started the GUI.
 
